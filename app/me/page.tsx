@@ -6,7 +6,6 @@ export default function Me() {
     <>
       <Head>
         <title>me</title>
-        <link rel="stylesheet" href="/style.css" />
       </Head>
       <div style={{ backgroundColor: "blue" }}>
         <h1 style={{ color: "white", textAlign: "center" }}>

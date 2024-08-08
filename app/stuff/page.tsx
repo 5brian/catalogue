@@ -6,7 +6,6 @@ export default function Stuff() {
     <>
       <Head>
         <title>uses</title>
-        <link rel="stylesheet" href="/style.css" />
       </Head>
       <div style={{ backgroundColor: "blue" }}>
         <h1 style={{ color: "white", textAlign: "center" }}>all my things</h1>
@@ -73,7 +72,7 @@ export default function Stuff() {
         </div>
         <div className="module">
           <p>
-            <a href="/stuff/archive">i'm feeling lucky archive</a>
+            <a href="/stuff/archive">i&apos;m feeling lucky archive</a>
           </p>
         </div>
       </div>

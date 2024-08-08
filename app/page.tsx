@@ -7,7 +7,6 @@ export default function Home() {
     <>
       <Head>
         <title>brian</title>
-        <link rel="stylesheet" href="/style.css" />
       </Head>
       <div style={{ backgroundColor: "blue" }}>
         <h1 style={{ color: "white", textAlign: "center" }}>brian tan</h1>

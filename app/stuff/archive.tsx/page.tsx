@@ -6,7 +6,6 @@ export default function Archive() {
     <>
       <Head>
         <title>archive</title>
-        <link rel="stylesheet" href="/style.css" />
       </Head>
       <div>
         <p>
