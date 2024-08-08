@@ -1,0 +1,131 @@
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 5vh;
+  font-size: 1rem;
+}
+
+a {
+  text-decoration: none;
+  transition: all 500ms;
+}
+
+.grid {
+  display: flex;
+  overflow: hidden;
+  flex-wrap: wrap;
+
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(49%, 1fr));
+  grid-auto-rows: minmax(150px, auto);
+  grid-gap: 1em;
+}
+
+.module {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+
+  /* Flex Fallback */
+  margin-left: 5px;
+  margin-right: 5px;
+  flex: 1 1 200px;
+
+  border: 2px blue solid;
+}
+
+.module .comment {
+  display: hide;
+}
+
+.module1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 35vh;
+
+  /* Flex Fallback */
+  margin-left: 20px;
+  margin-right: 20px;
+  flex: 1 1 200px;
+}
+
+.module2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40vh;
+
+  /* Flex Fallback */
+  margin-left: 5px;
+  margin-right: 5px;
+  flex: 1 1 200px;
+
+  border: 2px blue solid;
+}
+
+@supports (display: grid) {
+  .module {
+    margin: 0;
+  }
+}
+
+.module:hover {
+  /*   box-shadow: 0 3px 10px yellow; */
+  background-color: blue;
+}
+
+.module1:hover {
+  /*   box-shadow: 0 3px 10px yellow; */
+  background-color: rgb(102, 124, 222);
+}
+
+.module:hover a {
+  color: yellow;
+}
+
+@supports (display: grid) {
+  .aboutmodule {
+    margin: 0;
+  }
+}
+
+::selection {
+  color: blue;
+}
+
+h1::selection {
+  color: yellow;
+}
+
+a::selection {
+  background-color: yellow;
+}
+
+a:hover {
+  font-size: xx-large;
+  text-transform: uppercase;
+  font-size-adjust: 20px;
+}
+
+@media only screen and (max-width: 768px) {
+  div {
+    display: block;
+  }
+}
+
+.marquee {
+  display: inline-block;
+  position: relative;
+  color: white;
+  animation: marquee 10s linear alternate-reverse infinite;
+}
+
+@keyframes marquee {
+  from {
+    transform: translateX(45vw);
+  }
+  to {
+    transform: translateX(-45vw);
+  }
+}
