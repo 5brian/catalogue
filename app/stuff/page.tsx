@@ -18,6 +18,8 @@ export default function Stuff() {
               <br />
               kitty, neovim
               <br />
+              claude, perplexity
+              <br />
               arc, chrome, spotify, texts.com, notes, obsidian, notability,
               cron, slack, photoshop, premiere pro, devtoys, zed, visual studio,
               vscode insiders, linear, brew battery
@@ -72,7 +74,7 @@ export default function Stuff() {
         </div>
         <div className="module">
           <p>
-            <a href="/stuff/archive">i&apos;m feeling lucky archive</a>
+            <a href="/stuff/archivepage">i&apos;m feeling lucky archive</a>
           </p>
         </div>
       </div>
