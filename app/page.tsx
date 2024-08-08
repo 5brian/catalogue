@@ -31,7 +31,7 @@ export default function Home() {
         <div className="module">
           <p>
             <Link href="/lucky" target="_blank">
-              i'm feeling lucky
+              i&apos;m feeling lucky
             </Link>
           </p>
         </div>
