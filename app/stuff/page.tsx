@@ -42,8 +42,8 @@ export default function Stuff() {
               2020 macbook pro m1 13in, anker 341, samsung t7 2tb, xl2546k, 60%
               gateron brown kb, gpx superlight, zowie gsr se, ipad air 5th gen,
               apple pencil, smart keyboard folio, cca cra+, airpods pro 2,
-              comply foam tips, iphone 13, apple watch 8 41mm gps, echo auto,
-              echo dot
+              iphone 13, apple watch 8 41mm gps, echo auto, echo dot, ti84 plus
+              ce pink
               <br />
               <a
                 href="https://pcpartpicker.com/user/yaystar/saved/#view=WHbp3C"
