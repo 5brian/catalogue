@@ -193,7 +193,7 @@ export default function Archive() {
         </p>
         <p>
           <a href="https://milan.cvitkovic.net/writing/things_youre_allowed_to_do">
-            [Things You're Allowed to
+            [Things You&apos;re Allowed to
             Do](milan.cvitkovic.net/writing/things_youre_allowed_to_do)
           </a>
         </p>
