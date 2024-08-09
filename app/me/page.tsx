@@ -15,7 +15,9 @@ export default function Me() {
       <div className="grid">
         <div className="module">
           <p>
-            <a href="https://read.cv/briantan">hi, im brian</a>
+            <a href="https://read.cv/briantan" target="_blank">
+              hi, im brian
+            </a>
           </p>
         </div>
         <div className="module">
@@ -31,12 +33,16 @@ export default function Me() {
         </div>
         <div className="module">
           <p>
-            <a href="https://github.com/yoleuh">github</a>
+            <a href="https://github.com/yoleuh" target="_blank">
+              github
+            </a>
           </p>
         </div>
         <div className="module">
           <p>
-            <a href="mailto:tan.1220@osu.edu">mail</a>
+            <a href="mailto:tan.1220@osu.edu" target="_blank">
+              mail
+            </a>
           </p>
         </div>
       </div>
