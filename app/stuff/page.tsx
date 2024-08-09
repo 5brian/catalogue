@@ -31,6 +31,12 @@ export default function Stuff() {
               neovim, todo highlight, live server
               <br />
               nvimtree, harpoon, treesitter
+              <br />
+              bank: chase
+              <br />
+              hysa: apple goldman sachs
+              <br />
+              brokerage: charles schwab
             </p>
           </div>
         </div>
