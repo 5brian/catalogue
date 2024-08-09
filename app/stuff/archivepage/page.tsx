@@ -8,7 +8,6 @@ export default function Archive() {
         <title>archive</title>
       </Head>
       <div>
-        Here are the URLs with opening and closing p tags added:
         <p>
           flocrivello.com/changing-my-mind-on-remote-about-being-in-san-francisco
         </p>
