@@ -20,9 +20,7 @@ export default function Stuff() {
               <br />
               claude, perplexity
               <br />
-              arc, chrome, spotify, texts.com, notes, obsidian, notability,
-              cron, slack, photoshop, premiere pro, devtoys, zed, visual studio,
-              vscode insiders, linear, brew battery
+              arc, chrome, texts.com, obsidian, linear, vscode insiders
               <br />
               extensions: vimium c, ublock, grepper, volume master, simplify,
               goodtwitter2
