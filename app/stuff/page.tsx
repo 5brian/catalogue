@@ -54,7 +54,7 @@ export default function Stuff() {
               <i>
                 wants: studio display, apple magsafe charger, anker 622, wooting
                 60he, 4090, herman miller aeron, raspberry pi, 3d printer, 48U
-                server rack
+                server rack, home network, drying cabinet
               </i>
             </p>
           </div>
