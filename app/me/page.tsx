@@ -28,11 +28,9 @@ export default function Me() {
               singapore, but now, i spend my days making computers do things in
               rockville, md. in the future, i would like to go back to san
               francisco for a few years, and experience sf tech for myself :-)
-            </p>
-            <br />
-            <p>
-              i am currently interested in software for: ai/ml, quants/hft,
-              healthcare, and pharmaceuticals
+              <br />
+              <br />i am currently interested in software for: ai/ml,
+              quants/hft, healthcare, and pharmaceuticals
             </p>
           </div>
         </div>
