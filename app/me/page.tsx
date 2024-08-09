@@ -30,7 +30,7 @@ export default function Me() {
               francisco for a few years, and experience sf tech for myself :-)
             </p>
             <p>
-              i am currently intrested in software for: ai/ml, quants/hft,
+              i am currently interested in software for: ai/ml, quants/hft,
               healthcare, and pharmaceuticals
             </p>
           </div>
