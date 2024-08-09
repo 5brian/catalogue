@@ -45,14 +45,18 @@ export default function Stuff() {
               comply foam tips, iphone 13, apple watch 8 41mm gps, echo auto,
               echo dot
               <br />
-              <a href="https://pcpartpicker.com/user/yaystar/saved/#view=WHbp3C">
+              <a
+                href="https://pcpartpicker.com/user/yaystar/saved/#view=WHbp3C"
+                target="_blank"
+              >
                 pc:
               </a>
               7800x3d, rx6800
               <br />
               <i>
                 wants: studio display, apple magsafe charger, anker 622, wooting
-                60he, 4090
+                60he, 4090, herman miller aeron, raspberry pi, 3d printer, 48U
+                server rack
               </i>
             </p>
           </div>
