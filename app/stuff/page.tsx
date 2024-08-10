@@ -47,7 +47,7 @@ export default function Stuff() {
                 href="https://pcpartpicker.com/user/yaystar/saved/#view=WHbp3C"
                 target="_blank"
               >
-                pc:
+                pc:{" "}
               </a>
               7800x3d, rx6800
               <br />
