@@ -20,7 +20,8 @@ export default function Stuff() {
               <br />
               claude, perplexity
               <br />
-              arc, chrome, texts.com, obsidian, linear, vscode insiders
+              arc, chrome, texts.com, obsidian, linear, vscode insiders, alfred,
+              alt-tab, rectangle
               <br />
               extensions: vimium c, ublock, grepper, volume master, simplify,
               goodtwitter2
