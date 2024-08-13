@@ -67,7 +67,7 @@ export default function Stuff() {
               <br />
               java, c, x86-64 assembly
               <br />
-              typescript, react, next.js, bootstrap, tailwindcss
+              typescript, react, next.js, tailwindcss
               <br />
               .NET, C#, MonoGame
               <br />
