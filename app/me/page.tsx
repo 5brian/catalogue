@@ -9,7 +9,7 @@ export default function Me() {
       </Head>
       <div style={{ backgroundColor: "blue" }}>
         <h1 style={{ color: "white", textAlign: "center" }}>
-          <span className="marquee">who cares?</span>{" "}
+          <span className="marquee">who cares?</span>
         </h1>
       </div>
       <div className="grid">
