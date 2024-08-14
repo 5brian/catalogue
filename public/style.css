@@ -123,9 +123,9 @@ a:hover {
 
 @keyframes marquee {
   from {
-    transform: translateX(45vw);
+    transform: translateX(40vw);
   }
   to {
-    transform: translateX(-45vw);
+    transform: translateX(-40vw);
   }
 }

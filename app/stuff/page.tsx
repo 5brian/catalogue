@@ -1,14 +1,47 @@
+"use client";
 import Head from "next/head";
 import "../../public/style.css";
+import { useRouter } from "next/navigation";
 
 export default function Stuff() {
+  const router = useRouter();
+
   return (
     <>
       <Head>
         <title>uses</title>
       </Head>
-      <div style={{ backgroundColor: "blue" }}>
-        <h1 style={{ color: "white", textAlign: "center" }}>all my things</h1>
+      <div
+        style={{
+          backgroundColor: "blue",
+          display: "flex",
+          alignItems: "center",
+          justifyContent: "center",
+        }}
+      >
+        <div
+          style={{
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "space-between",
+            width: "100%",
+            maxWidth: "1550px",
+          }}
+        >
+          <span
+            onClick={() => router.back()}
+            className="text-white cursor-pointer mr-2"
+          >
+            ←
+          </span>
+          <h1
+            className="text-white m-0"
+            style={{ flex: 1, textAlign: "center" }}
+          >
+            all my things
+          </h1>
+          <span style={{ visibility: "hidden" }}>←</span>
+        </div>{" "}
       </div>
       <div className="grid">
         <div className="module">
