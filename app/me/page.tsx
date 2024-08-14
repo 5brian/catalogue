@@ -29,16 +29,18 @@ export default function Me() {
           }}
         >
           <span
-            onClick={() => router.back()}
+            onClick={() => router.push("/")}
             className="text-white cursor-pointer mr-2"
           >
             ←
           </span>
           <h1
-            className="text-white m-0 marquee"
+            className="text-white m-0"
             style={{ flex: 1, textAlign: "center" }}
           >
-            who cares?
+            <span className="marquee" style={{ pointerEvents: "none" }}>
+              who cares?
+            </span>
           </h1>
           <span style={{ visibility: "hidden" }}>←</span>
         </div>

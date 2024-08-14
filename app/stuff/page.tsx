@@ -29,7 +29,7 @@ export default function Stuff() {
           }}
         >
           <span
-            onClick={() => router.back()}
+            onClick={() => router.push("/")}
             className="text-white cursor-pointer mr-2"
           >
             ←

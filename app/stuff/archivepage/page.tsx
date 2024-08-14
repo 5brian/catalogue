@@ -9,6 +9,9 @@ export default function Archive() {
       </Head>
       <div>
         <p>
+          <a href="../stuff">[back]</a>
+        </p>
+        <p>
           <a href="https://nskyc.com" target="_blank">
             [NSKYC](nskyc.com)
           </a>
