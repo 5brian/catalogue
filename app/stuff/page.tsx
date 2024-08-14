@@ -14,22 +14,25 @@ export default function Stuff() {
         <div className="module">
           <div className="module1">
             <p>
-              <i>software</i>
+              <i>software [macos]</i>
               <br />
               kitty, neovim
               <br />
               claude, perplexity
               <br />
-              arc, chrome, texts.com, obsidian, linear, vscode insiders, alfred,
-              alt-tab, rectangle
+              chrome, obsidian, linear, vscode insiders, alfred, alt-tab,
+              rectangle
               <br />
-              extensions: vimium c, ublock, grepper, volume master, simplify,
-              goodtwitter2
+              extensions: vimium c, fuzzyhome, ublock, grepper, volume master,
+              simplify, goodtwitter2
               <br />
               copilot, error lens, gitlens, prettier, es7 snippets, tabout,
               neovim, todo highlight, live server
               <br />
               nvimtree, harpoon, treesitter
+              <br />
+              prev: archlinux, yabai, skhd, fish, arc, raycast, spacelauncher,
+              zed, warp, texts.com, cron
             </p>
           </div>
         </div>
