@@ -51,10 +51,9 @@ export default function Stuff() {
               <br />
               kitty, neovim
               <br />
-              claude, perplexity
+              claude pro, perplexity
               <br />
-              chrome, obsidian, linear, vscode insiders, alfred, alt-tab,
-              rectangle
+              chrome, obsidian, linear, vscode insiders, alfred, yabai, skhd
               <br />
               extensions: vimium c, fuzzyhome, ublock, grepper, volume master,
               simplify, goodtwitter2
@@ -64,8 +63,8 @@ export default function Stuff() {
               <br />
               nvimtree, harpoon, treesitter
               <br />
-              prev: archlinux, yabai, skhd, fish, arc, raycast, spacelauncher,
-              zed, warp, texts.com, cron
+              prev: archlinux, fish, arc, raycast, spacelauncher, zed, warp,
+              texts.com, cron, rectangle, alt-tab
             </p>
           </div>
         </div>
