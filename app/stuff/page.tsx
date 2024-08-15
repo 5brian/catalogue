@@ -34,12 +34,7 @@ export default function Stuff() {
           >
             ←
           </span>
-          <h1
-            className="text-white m-0"
-            style={{ flex: 1, textAlign: "center" }}
-          >
-            all my things
-          </h1>
+          <h1 className="text-white text-center text-2xl">all my things</h1>
           <span style={{ visibility: "hidden" }}>←</span>
         </div>
       </div>

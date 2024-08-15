@@ -9,7 +9,7 @@ export default function Home() {
         <title>brian</title>
       </Head>
       <div style={{ backgroundColor: "blue" }}>
-        <h1 style={{ color: "white", textAlign: "center" }}>brian tan</h1>
+        <h1 className="text-white text-center text-2xl">brian tan</h1>
       </div>
       <div className="grid">
         <div className="module">

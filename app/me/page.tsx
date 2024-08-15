@@ -35,7 +35,7 @@ export default function Me() {
             ←
           </span>
           <h1
-            className="text-white m-0"
+            className="text-white text-center text-2xl m-0"
             style={{ flex: 1, textAlign: "center" }}
           >
             <span className="marquee" style={{ pointerEvents: "none" }}>
