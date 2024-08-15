@@ -25,7 +25,7 @@ export default function Me() {
             alignItems: "center",
             justifyContent: "space-between",
             width: "100%",
-            maxWidth: "1550px",
+            maxWidth: "1500px",
           }}
         >
           <span
@@ -42,7 +42,7 @@ export default function Me() {
               who cares?
             </span>
           </h1>
-          <span style={{ visibility: "hidden" }}>←</span>
+          <span style={{ visibility: "hidden" }}> ←</span>
         </div>
       </div>
       <div className="grid">

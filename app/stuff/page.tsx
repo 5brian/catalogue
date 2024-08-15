@@ -25,7 +25,7 @@ export default function Stuff() {
             alignItems: "center",
             justifyContent: "space-between",
             width: "100%",
-            maxWidth: "1550px",
+            maxWidth: "1500px",
           }}
         >
           <span
@@ -40,8 +40,8 @@ export default function Stuff() {
           >
             all my things
           </h1>
-          <span style={{ visibility: "hidden" }}>←</span>
-        </div>{" "}
+          <span style={{ visibility: "hidden" }}> ←</span>
+        </div>
       </div>
       <div className="grid">
         <div className="module">
