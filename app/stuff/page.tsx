@@ -40,7 +40,7 @@ export default function Stuff() {
           >
             all my things
           </h1>
-          <span style={{ visibility: "hidden" }}> ←</span>
+          <span style={{ visibility: "hidden" }}>←</span>
         </div>
       </div>
       <div className="grid">

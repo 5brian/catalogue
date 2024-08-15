@@ -42,7 +42,7 @@ export default function Me() {
               who cares?
             </span>
           </h1>
-          <span style={{ visibility: "hidden" }}> ←</span>
+          <span style={{ visibility: "hidden" }}>←</span>
         </div>
       </div>
       <div className="grid">
