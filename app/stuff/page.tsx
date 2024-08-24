@@ -42,14 +42,31 @@ export default function Stuff() {
         <div className="module">
           <div className="module1">
             <p>
-              <i>software [macos]</i>
+              <i>software</i>
+              <br />
+              os: macos
+              <br />
+              bar:{" "}
+              <a
+                href="https://github.com/FelixKratz/SketchyBar"
+                target="_blank"
+              >
+                sketchybar
+              </a>
+              <br />
+              wm:{" "}
+              <a
+                href="https://github.com/nikitabobko/AeroSpace"
+                target="_blank"
+              >
+                aerospace
+              </a>
               <br />
               kitty, neovim
               <br />
               claude pro, perplexity
               <br />
-              chrome, obsidian, linear, texts.com, vscode insiders, alfred,
-              nikitabobko/AeroSpace
+              chrome, obsidian, linear, texts.com, vscode insiders, alfred
               <br />
               extensions: vimium c, fuzzyhome, ublock, grepper, volume master,
               simplify, goodtwitter2
