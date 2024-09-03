@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Link from "next/link";
-import "../public/style.css";
+import "../styles/style.css";
 
 export default function Home() {
   return (
@@ -14,22 +14,22 @@ export default function Home() {
       <div className="grid">
         <div className="module">
           <p>
-            <Link href="/me">me</Link>
+            <Link href="../pages/me">me</Link>
           </p>
         </div>
         <div className="module">
           <p>
-            <Link href="/work">work</Link>
+            <Link href="../pages/work">work</Link>
           </p>
         </div>
         <div className="module">
           <p>
-            <Link href="/stuff">stuff</Link>
+            <Link href="../pages/stuff">stuff</Link>
           </p>
         </div>
         <div className="module">
           <p>
-            <Link href="/lucky" target="_blank">
+            <Link href="../pages/lucky" target="_blank">
               i&apos;m feeling lucky
             </Link>
           </p>

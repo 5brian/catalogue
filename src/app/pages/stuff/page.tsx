@@ -1,6 +1,6 @@
 "use client";
 import Head from "next/head";
-import "../../public/style.css";
+import "../../../styles/style.css";
 import { useRouter } from "next/navigation";
 
 export default function Stuff() {

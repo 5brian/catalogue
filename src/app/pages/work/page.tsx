@@ -17,7 +17,7 @@ export default function Work() {
             </a>
           </p>
           <br />
-          <Image src="/gif.gif" alt="link-game" width={500} height={300} />
+          <Image src="/game.gif" alt="link-game" width={500} height={300} />
           <br />
           <a href="../">back</a>
           <p>this page is a work in progress :{">"}</p>
