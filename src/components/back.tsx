@@ -1,7 +1,8 @@
-import React from "react";
+"use client";
+
 import { useRouter } from "next/navigation";
 
-const Back: React.FC = () => {
+const Back = () => {
   const router = useRouter();
 
   return (
