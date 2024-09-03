@@ -18,7 +18,7 @@ export default function Home() {
       </Module>
       <Module>
         <LinkButton href="../lucky" target="_blank">
-          i'm feeling lucky
+          i&apos;m feeling lucky
         </LinkButton>
       </Module>
     </Layout>
