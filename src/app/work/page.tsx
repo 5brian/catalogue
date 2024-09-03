@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import "./work.css";
+import Link from "next/link";
 
 export default function Work() {
   return (
@@ -9,12 +10,12 @@ export default function Work() {
         <div>
           <p>
             link-game{" "}
-            <a
+            <Link
               href="https://github.com/caelummmuhhh/CSE3902-Game"
               target="_blank"
             >
               [github]
-            </a>
+            </Link>
           </p>
           <br />
           <Image src="/game.gif" alt="link-game" width={500} height={300} />

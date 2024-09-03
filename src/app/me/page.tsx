@@ -3,7 +3,7 @@
 import React from "react";
 import Layout from "../../components/layout";
 import Module from "../../components/module";
-import LinkButton from "../../components/link";
+import Link from "next/link";
 
 export default function Me() {
   return (
@@ -16,9 +16,9 @@ export default function Me() {
       showBack={true}
     >
       <Module>
-        <LinkButton href="https://read.cv/briantan" target="_blank">
+        <Link href="https://read.cv/briantan" target="_blank">
           hi, im brian
-        </LinkButton>
+        </Link>
       </Module>
 
       <Module>
@@ -37,15 +37,15 @@ export default function Me() {
       </Module>
 
       <Module>
-        <LinkButton href="https://github.com/yoleuh" target="_blank">
+        <Link href="https://github.com/yoleuh" target="_blank">
           github
-        </LinkButton>
+        </Link>
       </Module>
 
       <Module>
-        <LinkButton href="mailto:tan.1220@osu.edu" target="_blank">
+        <Link href="mailto:tan.1220@osu.edu" target="_blank">
           mail
-        </LinkButton>
+        </Link>
       </Module>
     </Layout>
   );

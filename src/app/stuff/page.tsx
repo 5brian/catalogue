@@ -3,7 +3,7 @@
 import React from "react";
 import Layout from "../../components/layout";
 import Module from "../../components/module";
-import LinkButton from "../../components/link";
+import Link from "next/link";
 
 export default function Stuff() {
   return (
@@ -16,14 +16,20 @@ export default function Stuff() {
             os: macos
             <br />
             bar:{" "}
-            <LinkButton href="https://github.com/FelixKratz/SketchyBar">
+            <Link
+              href="https://github.com/FelixKratz/SketchyBar"
+              target="_blank"
+            >
               sketchybar
-            </LinkButton>
+            </Link>
             <br />
             wm:{" "}
-            <LinkButton href="https://github.com/nikitabobko/AeroSpace">
+            <Link
+              href="https://github.com/nikitabobko/AeroSpace"
+              target="_blank"
+            >
               aerospace
-            </LinkButton>
+            </Link>
             <br />
             kitty, neovim
             <br />
@@ -57,9 +63,12 @@ export default function Stuff() {
             apple pencil, smart keyboard folio, cca cra+, airpods pro 2, iphone
             13, apple watch 8 41mm gps, echo auto, echo dot, ti84 plus ce pink
             <br />
-            <LinkButton href="https://pcpartpicker.com/user/yaystar/saved/#view=WHbp3C">
+            <Link
+              href="https://pcpartpicker.com/user/yaystar/saved/#view=WHbp3C"
+              target="_blank"
+            >
               pc:{" "}
-            </LinkButton>
+            </Link>
             7800x3d, rx6800
             <br />
             <i>
@@ -88,9 +97,7 @@ export default function Stuff() {
       </Module>
 
       <Module>
-        <LinkButton href="/stuff/archivepage">
-          i&apos;m feeling lucky archive
-        </LinkButton>
+        <Link href="/stuff/archivepage">i&apos;m feeling lucky archive</Link>
       </Module>
     </Layout>
   );

@@ -2,24 +2,24 @@ import "../styles/style.css";
 import React from "react";
 import Layout from "../components/layout";
 import Module from "../components/module";
-import LinkButton from "../components/link";
+import Link from "next/link";
 
 export default function Home() {
   return (
     <Layout title="brian tan">
       <Module>
-        <LinkButton href="../me">me</LinkButton>
+        <Link href="../me">me</Link>
       </Module>
       <Module>
-        <LinkButton href="../work">work</LinkButton>
+        <Link href="../work">work</Link>
       </Module>
       <Module>
-        <LinkButton href="../stuff">stuff</LinkButton>
+        <Link href="../stuff">stuff</Link>
       </Module>
       <Module>
-        <LinkButton href="../lucky" target="_blank">
+        <Link href="../lucky" target="_blank">
           i&apos;m feeling lucky
-        </LinkButton>
+        </Link>
       </Module>
     </Layout>
   );
