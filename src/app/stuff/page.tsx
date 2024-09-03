@@ -1,7 +1,8 @@
 "use client";
 import Head from "next/head";
-import "../../../styles/style.css";
+import "../../styles/style.css";
 import { useRouter } from "next/navigation";
+import Back from "../../components/back";
 
 export default function Stuff() {
   const router = useRouter();
@@ -28,12 +29,7 @@ export default function Stuff() {
             maxWidth: "1500px",
           }}
         >
-          <span
-            onClick={() => router.push("/")}
-            className="text-white cursor-pointer mr-2"
-          >
-            ←
-          </span>
+          <Back />
           <h1 className="text-white text-center text-2xl">all my things</h1>
           <span style={{ visibility: "hidden" }}>←</span>
         </div>

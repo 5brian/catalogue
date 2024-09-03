@@ -1,5 +1,5 @@
 import Head from "next/head";
-import "../../../../styles/style.css";
+import "../../../styles/style.css";
 
 export default function Archive() {
   return (
