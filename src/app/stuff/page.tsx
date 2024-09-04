@@ -73,8 +73,9 @@ export default function Stuff() {
             <br />
             <i>
               wants: studio display, apple magsafe charger, anker 622, wooting
-              60he, 4090, herman miller aeron, raspberry pi, 3d printer, 48U
-              server rack, home network, drying cabinet, the Barista Pro
+              60he, hhkb, 4090, herman miller aeron, raspberry pi, 3d printer,
+              48U server rack, home network, drying cabinet, the Barista Pro,
+              fdrx7
             </i>
           </p>
         </div>
