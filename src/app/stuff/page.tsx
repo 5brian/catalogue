@@ -1,5 +1,6 @@
 "use client";
 
+import "../styles/style.css";
 import React from "react";
 import Layout from "../../components/layout";
 import Module from "../../components/module";
