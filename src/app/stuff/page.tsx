@@ -46,8 +46,8 @@ export default function Stuff() {
             nvimtree, harpoon, treesitter
             <br />
             <i>
-              prev: archlinux, arc, raycast, spacelauncher, zed, warp,
-              cron,spacebar, [rectangle, alt-tab], [yabai, skhd]
+              prev: archlinux, arc, raycast, spacelauncher, zed, warp, cron,
+              spacebar, [rectangle, alt-tab], [yabai, skhd]
             </i>
           </p>
         </div>
