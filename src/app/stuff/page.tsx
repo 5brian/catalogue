@@ -36,7 +36,8 @@ export default function Stuff() {
             <br />
             claude pro, perplexity
             <br />
-            chrome, obsidian, linear, texts.com, vscode insiders, alfred,{" "}
+            chrome, obsidian, linear, texts.com, vscode insiders, alfred,
+            lazygit,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
               mos,{" "}
             </Link>
@@ -108,7 +109,7 @@ export default function Stuff() {
             <br />
             .NET, C#, MonoGame
             <br />
-            <i>misc: sql, solidworks, excel</i>
+            <i>misc: sql, solidworks, excel, latex</i>
           </p>
         </div>
       </Module>
