@@ -35,10 +35,25 @@ export default function Stuff() {
             <br />
             claude pro, perplexity
             <br />
-            chrome, obsidian, linear, texts.com, vscode insiders, alfred
+            chrome, obsidian, linear, texts.com, vscode insiders, alfred,{" "}
+            <Link href="https://github.com/Caldis/Mos" target="_blank">
+              mos,{" "}
+            </Link>
+            <Link
+              href="https://github.com/actuallymentor/battery"
+              target="_blank"
+            >
+              battery
+            </Link>
             <br />
-            extensions: vimium c, fuzzyhome, ublock, grepper, volume master,
-            simplify, goodtwitter2
+            extensions: vimium c,{" "}
+            <Link
+              href="https://github.com/familyfriendlymikey/fuzzyhome"
+              target="_blank"
+            >
+              fuzzyhome,{" "}
+            </Link>
+            ublock, grepper, volume master, simplify, goodtwitter2
             <br />
             copilot, error lens, gitlens, prettier, es7 snippets, tabout,
             neovim, todo highlight, live server
