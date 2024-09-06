@@ -57,8 +57,13 @@ export default function Stuff() {
             </Link>
             ublock, grepper, volume master, simplify, goodtwitter2
             <br />
-            copilot, error lens, gitlens, prettier, es7 snippets, tabout,
-            neovim, todo highlight, live server
+            copilot, error lens, gitlens, tabout, vim, todo highlight,{""}
+            <Link
+              href="https://github.com/tomrijndorp/vscode-finditfaster"
+              target="_blank"
+            >
+              finditfaster
+            </Link>
             <br />
             nvimtree, harpoon, treesitter
             <br />
