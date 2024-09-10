@@ -62,9 +62,9 @@ export default function Stuff() {
               href="https://github.com/tomrijndorp/vscode-finditfaster"
               target="_blank"
             >
-              finditfaster
+              finditfaster,{" "}
             </Link>
-            , eazymotion
+            eazymotion
             <br />
             ohmyzsh, zoxide, lazygit; nvimtree, harpoon, treesitter
             <br />
