@@ -34,10 +34,7 @@ export default function Stuff() {
             <br />
             kitty, neovim
             <br />
-            claude pro, perplexity
-            <br />
-            chrome, obsidian, linear, texts.com, vscode insiders, alfred,
-            lazygit,{" "}
+            chrome, obsidian, linear, texts.com, vscode insiders, alfred,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
               mos,{" "}
             </Link>
@@ -55,7 +52,10 @@ export default function Stuff() {
             >
               fuzzyhome,{" "}
             </Link>
-            ublock, grepper, volume master, simplify, goodtwitter2
+            ublock, grepper, volume master, simplify,{" "}
+            <Link href="https://github.com/dimdenGD/OldTwitter" target="_blank">
+              oldtwitter
+            </Link>
             <br />
             copilot, error lens, gitlens, tabout, vim, todo highlight,{" "}
             <Link
@@ -64,12 +64,13 @@ export default function Stuff() {
             >
               finditfaster
             </Link>
+            , eazymotion
             <br />
-            nvimtree, harpoon, treesitter
+            ohmyzsh, zoxide, lazygit; nvimtree, harpoon, treesitter
             <br />
             <i>
               prev: archlinux, arc, raycast, spacelauncher, zed, warp, cron,
-              spacebar, [rectangle, alt-tab], [yabai, skhd]
+              spacebar, [rectangle, alt-tab], [yabai, skhd], goodtwitter2
             </i>
           </p>
         </div>
