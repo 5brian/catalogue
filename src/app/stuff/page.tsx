@@ -32,7 +32,7 @@ export default function Stuff() {
               aerospace
             </Link>
             <br />
-            kitty, neovim
+            kitty, neovim, sioyek
             <br />
             chrome, obsidian, linear, texts.com, vscode insiders, alfred,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
