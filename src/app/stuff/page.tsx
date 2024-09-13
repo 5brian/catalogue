@@ -95,10 +95,10 @@ export default function Stuff() {
             7800x3d, rx6800
             <br />
             <i>
-              wants: studio display, apple magsafe charger, anker 622, wooting
-              60he, hhkb, 4090, herman miller aeron, raspberry pi, 3d printer,
-              48U server rack, home network, drying cabinet, the Barista Pro,
-              fdrx7
+              wants: framework laptop 13, studio display, apple magsafe charger,
+              anker 622, wooting 60he, hhkb, 4090, herman miller aeron,
+              raspberry pi, 3d printer, 48U server rack, home network, drying
+              cabinet, the Barista Pro, fdrx7
             </i>
           </p>
         </div>
