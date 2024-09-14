@@ -38,8 +38,7 @@ export default function Me() {
             homework i can in latex
             <br />
             recently ive also been working on contributing to open source stuff,
-            something fun like neovim plugins-- so hopefully i can make
-            something work
+            something fun like neovim plugins
           </p>
         </div>
       </Module>
