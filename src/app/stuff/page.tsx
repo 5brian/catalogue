@@ -98,7 +98,7 @@ export default function Stuff() {
               wants: framework laptop 13, studio display, apple magsafe charger,
               anker 622, wooting 60he, hhkb, 4090, herman miller aeron,
               raspberry pi, 3d printer, 48U server rack, home network, drying
-              cabinet, the Barista Pro, fdrx7
+              cabinet, the Barista Pro, fdrx7, sk1rr
             </i>
           </p>
         </div>
