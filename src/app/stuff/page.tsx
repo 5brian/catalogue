@@ -109,7 +109,7 @@ export default function Stuff() {
           <p>
             <i>programming</i>
             <br />
-            java, c, x86-64 assembly
+            java, c, x86-64 assembly, lisp, go, lua
             <br />
             typescript, react, next.js, tailwindcss
             <br />
