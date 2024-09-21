@@ -26,7 +26,7 @@ const LuckyPage: React.FC = () => {
     "https://ntietz.com/blog/ai-text-should-be-labeled",
     "https://how-i-experience-web-today.com",
     "https://web.archive.org/web/20210513043002/web.eecs.utk.edu/~azh/blog/cosine.html",
-    "https://wsj.com/articles/west-coast-states-rode-the-tech-boom-now-they-face-higher-unemployment-falling-wages-83318105",
+    "https://www.cs.cmu.edu/events/smiley",
     "https://neptune.ai/blog/understanding-vectors-from-a-machine-learning-perspective",
     "https://quuxplusone.github.io/blog/2023/06/02/not-so-quick-pmr",
     "https://freshpaint.io/blog/github-copilot-and-the-methods-of-rationality",

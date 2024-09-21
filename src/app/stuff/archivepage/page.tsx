@@ -202,12 +202,9 @@ export default function Archive() {
           </Link>
         </p>
         <p>
-          <Link
-            href="https://wsj.com/articles/west-coast-states-rode-the-tech-boom-now-they-face-higher-unemployment-falling-wages-83318105"
-            target="_blank"
-          >
-            [West Coast States Rode the Tech
-            Boom](wsj.com/articles/west-coast-states-rode-the-tech-boom-now-they-face-higher-unemployment-falling-wages-83318105)
+          <Link href="https://www.cs.cmu.edu/events/smiley" target="_blank">
+            [ Happy 42nd Birthday Smiley! Conceived and E-moted 19 September
+            1982 ](cs.cmu.edu/events/smiley)
           </Link>
         </p>
         <p>
