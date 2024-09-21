@@ -9,7 +9,7 @@ export default function Work() {
       <div className="work-container">
         <div>
           <p>
-            link-game{" "}
+            The Legend of Zelda (NES 1986){" "}
             <Link
               href="https://github.com/caelummmuhhh/CSE3902-Game"
               target="_blank"
