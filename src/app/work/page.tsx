@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 export default function Work() {
   return (
     <>
@@ -14,6 +16,10 @@ export default function Work() {
             re-doing this page, will be back soon i promise, feel free to ask me
             for my resume @ tan.1220@osu.edu :)
             <br />
+            <Link href="https://rdvrl4clj.sites.cv/" target="_blank">
+              [readcv]{" "}
+            </Link>
+            for now
             <br />
             <a href="../">[back]</a>
           </p>
