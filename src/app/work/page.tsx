@@ -1,27 +1,19 @@
-import Head from "next/head";
-import Image from "next/image";
-import "./work.css";
-import Link from "next/link";
-
 export default function Work() {
   return (
     <>
-      <div className="work-container">
-        <div>
+      <div>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "center",
+            alignItems: "center",
+            height: "100vh",
+          }}
+        >
           <p>
-            The Legend of Zelda (NES 1986){" "}
-            <Link
-              href="https://github.com/caelummmuhhh/CSE3902-Game"
-              target="_blank"
-            >
-              [github]
-            </Link>
+            re-doing this page, will be back soon i promise, feel free to ask me
+            for my resume @ tan.1220@osu.edu :)
           </p>
-          <br />
-          <Image src="/game.gif" alt="link-game" width={500} height={300} />
-          <br />
-          <a href="../">back</a>
-          <p>this page is a work in progress :{">"}</p>
         </div>
       </div>
     </>
