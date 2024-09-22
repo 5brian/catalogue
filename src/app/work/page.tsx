@@ -13,6 +13,9 @@ export default function Work() {
           <p>
             re-doing this page, will be back soon i promise, feel free to ask me
             for my resume @ tan.1220@osu.edu :)
+            <br />
+            <br />
+            <a href="../">[back]</a>
           </p>
         </div>
       </div>
