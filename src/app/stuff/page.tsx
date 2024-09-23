@@ -66,7 +66,7 @@ export default function Stuff() {
             </Link>
             eazymotion
             <br />
-            ohmyzsh, zoxide, lazygit; nvimtree, harpoon, treesitter
+            ohmyzsh, zoxide, lazygit; nvimtree, harpoon, treesitter, vimtex
             <br />
             <i>
               prev: archlinux, arc, raycast, spacelauncher, zed, warp, cron,
