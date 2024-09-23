@@ -24,7 +24,7 @@ const Layout = ({ children, title, showBack = false }: LayoutProps) => (
           display: "flex",
           alignItems: "center",
           justifyContent: "space-between",
-          width: "100%",
+          width: "98%",
           // maxWidth: "1900px",
         }}
       >
