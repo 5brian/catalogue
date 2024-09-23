@@ -70,7 +70,8 @@ export default function Stuff() {
             <br />
             <i>
               prev: archlinux, arc, raycast, spacelauncher, zed, warp, cron,
-              spacebar, [rectangle, alt-tab], [yabai, skhd], goodtwitter2
+              spacebar, {"<"}rectangle, alt-tab{">"}, {"<"}yabai, skhd{">"},
+              goodtwitter2
             </i>
             <br />
             <Link href="https://github.com/yoleuh?tab=stars" target="_blank">
