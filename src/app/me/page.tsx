@@ -28,17 +28,19 @@ export default function Me() {
             b. 2004, santa rosa. currently a 4th year computer science student.
             looking to build software for someone. i grew up in singapore, but
             now, i spend my days making computers do things in rockville, md. in
-            the future, i would like to go back to san francisco for a few
-            years, and experience sf tech for myself :-)
+            the future, i would like to go back to san francisco for a few years
+            :-)
             <br />
-            <br />i am currently interested in software for: ai/ml, quants/hft,
+            <br />
+            i am currently interested in software for: ai/ml, quants/hft,
             healthcare, and pharmaceuticals
             <br />
-            some things i enjoy are building my neovim config and doing whatever
-            homework i can in latex
+            lately ive been enjoying building a neovim config and doing some of
+            my homework in latex
             <br />
-            recently ive also been working on contributing to open source stuff,
-            something fun like neovim plugins
+            my first open source pr was merged recently, so i am also working on
+            contributing to open source more, something fun like neovim plugins
+            <br />
           </p>
         </div>
       </Module>
