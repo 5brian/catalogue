@@ -98,12 +98,14 @@ export default function Stuff() {
             </Link>
             7800x3d, rx6800
             <br />
+            {/*
             <i>
               wants: framework laptop 13, studio display, apple magsafe charger,
               anker 622, wooting 60he, hhkb, 4090, herman miller aeron,
               raspberry pi, 3d printer, 48U server rack, home network, drying
               cabinet, the Barista Pro, fdrx7, sk1rr
             </i>
+            */}
           </p>
         </div>
       </Module>
@@ -113,7 +115,7 @@ export default function Stuff() {
           <p>
             <i>programming</i>
             <br />
-            java, c, x86-64 assembly, lisp, go, lua
+            python, java, c, x86-64 assembly, lisp, go, lua
             <br />
             typescript, react, next.js, tailwindcss
             <br />
