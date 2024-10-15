@@ -34,8 +34,8 @@ export default function Stuff() {
             <br />
             kitty, tmux, neovim, sioyek
             <br />
-            chrome, obsidian, linear, texts.com, vscode insiders, alfred,
-            karabiner,{" "}
+            textfox, chrome, obsidian, linear, texts.com, vscode insiders,
+            alfred, karabiner,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
               mos,{" "}
             </Link>
