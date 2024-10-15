@@ -34,8 +34,14 @@ export default function Stuff() {
             <br />
             kitty, tmux, neovim, sioyek
             <br />
-            textfox, chrome, obsidian, linear, texts.com, vscode insiders,
-            alfred, karabiner,{" "}
+            <Link
+              href="https://github.com/adriankarlen/textfox"
+              target="_blank"
+            >
+              textfox,{" "}
+            </Link>
+            chrome, obsidian, linear, texts.com, vscode insiders, alfred,
+            karabiner,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
               mos,{" "}
             </Link>
