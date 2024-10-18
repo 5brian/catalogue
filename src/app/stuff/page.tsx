@@ -80,7 +80,10 @@ export default function Stuff() {
             </i>
             <br />
             <Link href="https://github.com/yoleuh?tab=stars" target="_blank">
-              [more stuff i like]
+              [more stuff i like]{" "}
+            </Link>
+            <Link href="https://github.com/yoleuh/dots" target="_blank">
+              [dots]
             </Link>
           </p>
         </div>
