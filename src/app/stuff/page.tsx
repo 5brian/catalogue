@@ -94,10 +94,10 @@ export default function Stuff() {
           <p>
             <i>hardware</i>
             <br />
-            2020 macbook pro m1 13in, anker 341, samsung t7 2tb, xl2546k, 60%
-            gateron brown kb, gpx superlight, zowie gsr se, ipad air 5th gen,
-            apple pencil, smart keyboard folio, cca cra+, airpods pro 2, iphone
-            13, apple watch 8 41mm gps, echo auto, echo dot, ti84 plus ce pink
+            m4 mac mini 10GbE, m1 macbook pro 13in, anker 341, samsung t7 2tb,
+            xl2546k, 60% gateron brown kb, gpx superlight, zowie gsr se, ipad
+            air 5th gen, apple pencil, smart keyboard folio, cca cra+, airpods
+            pro 2, iphone 13, apple watch 8 41mm gps, ti84 plus ce pink
             <br />
             <Link
               href="https://pcpartpicker.com/user/yaystar/saved/#view=WHbp3C"
@@ -109,7 +109,7 @@ export default function Stuff() {
             <br />
             {/*
             <i>
-              wants: framework laptop 13, studio display, apple magsafe charger,
+              wants: qc45, framework laptop 13, studio display, apple magsafe charger,
               anker 622, wooting 60he, hhkb, 4090, herman miller aeron,
               raspberry pi, 3d printer, 48U server rack, home network, drying
               cabinet, the Barista Pro, fdrx7, sk1rr
