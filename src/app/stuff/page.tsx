@@ -34,13 +34,7 @@ export default function Stuff() {
             <br />
             kitty, tmux, neovim, sioyek
             <br />
-            <Link
-              href="https://github.com/adriankarlen/textfox"
-              target="_blank"
-            >
-              textfox,{" "}
-            </Link>
-            chrome, obsidian, linear, texts.com, vscode insiders, alfred,
+            firefox dev, chrome, obsidian, linear, texts.com, vscode insiders, alfred,
             karabiner,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
               mos,{" "}
@@ -94,7 +88,7 @@ export default function Stuff() {
           <p>
             <i>hardware</i>
             <br />
-            m4 mac mini 10GbE, m1 macbook pro 13in, anker 341, samsung t7 2tb,
+            m4 mac mini 10GbE (otw : )), m1 macbook pro 13in, anker 341, samsung t7 2tb,
             xl2546k, 60% gateron brown kb, gpx superlight, zowie gsr se, ipad
             air 5th gen, apple pencil, smart keyboard folio, cca cra+, airpods
             pro 2, iphone 13, apple watch 8 41mm gps, ti84 plus ce pink
