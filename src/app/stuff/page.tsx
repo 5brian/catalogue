@@ -34,8 +34,9 @@ export default function Stuff() {
             <br />
             kitty, tmux, neovim, sioyek
             <br />
-            firefox dev, chrome, obsidian, linear, texts.com, vscode insiders, alfred,
-            karabiner,{" "}
+            firefox dev, chrome, obsidian, linear, texts.com, vscode insiders
+            <br />
+            alfred, karabiner, skhd,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
               mos,{" "}
             </Link>
@@ -53,10 +54,7 @@ export default function Stuff() {
             >
               fuzzyhome,{" "}
             </Link>
-            ublock, grepper, volume master, simplify,{" "}
-            <Link href="https://github.com/dimdenGD/OldTwitter" target="_blank">
-              oldtwitter
-            </Link>
+            ubo lite, volume master
             <br />
             copilot, error lens, gitlens, tabout, vim, todo highlight,{" "}
             <Link
@@ -69,9 +67,7 @@ export default function Stuff() {
             <br />
             ohmyzsh, zoxide, lazygit; nvimtree, harpoon, treesitter, vimtex
             <br />
-            <i>
-              prev: arch, arc, zed, warp, cron, zathura, {"<"}yabai, skhd{">"}
-            </i>
+            <i>prev: arc, cron, zathura, yabai</i>
             <br />
             <Link href="https://github.com/yoleuh?tab=stars" target="_blank">
               [more stuff i like]{" "}
@@ -88,7 +84,7 @@ export default function Stuff() {
           <p>
             <i>hardware</i>
             <br />
-            m4 mac mini 10GbE (otw : )), m1 macbook pro 13in, anker 341, samsung t7 2tb,
+            m4 mac mini 10GbE, m1 macbook pro 13in, anker 341, samsung t7 2tb,
             xl2546k, 60% gateron brown kb, gpx superlight, zowie gsr se, ipad
             air 5th gen, apple pencil, smart keyboard folio, cca cra+, airpods
             pro 2, iphone 13, apple watch 8 41mm gps, ti84 plus ce pink
