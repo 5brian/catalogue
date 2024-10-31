@@ -84,10 +84,13 @@ export default function Stuff() {
           <p>
             <i>hardware</i>
             <br />
-            m4 mac mini 10GbE, m1 macbook pro 13in, anker 341, samsung t7 2tb,
-            xl2546k, 60% gateron brown kb, gpx superlight, zowie gsr se, ipad
-            air 5th gen, apple pencil, smart keyboard folio, cca cra+, airpods
-            pro 2, iphone 13, apple watch 8 41mm gps, ti84 plus ce pink
+            m4 mac mini 10GbE, m1 macbook pro 13in
+            <br />
+            anker 341, samsung t7 2tb, xl2546k, 60% gateron brown kb, gpx
+            superlight, zowie gsr se
+            <br />
+            ipad air 5th gen, apple pencil, smart keyboard folio, cca cra+,
+            airpods pro 2, iphone 13, apple watch 8 41mm gps, ti84 plus ce pink
             <br />
             <Link
               href="https://pcpartpicker.com/user/yaystar/saved/#view=WHbp3C"
