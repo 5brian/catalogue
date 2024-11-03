@@ -167,6 +167,15 @@ export default function Archive() {
         </p>
         <p>
           <Link
+            href="https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short"
+            target="_blank"
+          >
+            [The days are long but the decades are
+            short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+          </Link>
+        </p>
+        <p>
+          <Link
             href="https://quantamagazine.org/the-biggest-discoveries-in-computer-science-in-2023-20231220"
             target="_blank"
           >
