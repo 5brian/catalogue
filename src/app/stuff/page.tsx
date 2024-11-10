@@ -102,10 +102,10 @@ export default function Stuff() {
             <br />
             {/*
             <i>
-              wants: qc45, framework laptop 13, studio display, apple magsafe charger,
-              anker 622, wooting 60he, hhkb, 4090, herman miller aeron,
-              raspberry pi, 3d printer, 48U server rack, home network, drying
-              cabinet, the Barista Pro, fdrx7, sk1rr
+              wants: lily58, qc45, thinkpad of some sort, studio display,
+              apple magsafe charger, anker 622, herman miller aeron,
+              raspberry pi, 3d printer, 48U server rack, home network,
+              drying cabinet, the Barista Pro, fdrx7, sk1rr
             </i>
             */}
           </p>
