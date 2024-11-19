@@ -167,6 +167,15 @@ export default function Archive() {
         </p>
         <p>
           <Link
+            href="https://wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794"
+            target="_blank"
+          >
+            [Ghost Job
+            Listings](wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
+          </Link>
+        </p>
+        <p>
+          <Link
             href="https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short"
             target="_blank"
           >
@@ -430,20 +439,16 @@ export default function Archive() {
           </Link>
         </p>
         <p>
+          <Link href="https://walzr.com/IMG_0001" target="_blank">
+            [ IMG_0001](https://walzr.com/IMG_0001)
+          </Link>
+        </p>
+        <p>
           <Link
             href="https://notes.jordanscales.com/block-the-blue"
             target="_blank"
           >
             [Block the Blue](notes.jordanscales.com/block-the-blue)
-          </Link>
-        </p>
-        <p>
-          <Link
-            href="https://wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794"
-            target="_blank"
-          >
-            [Ghost Job
-            Listings](wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
           </Link>
         </p>
       </div>

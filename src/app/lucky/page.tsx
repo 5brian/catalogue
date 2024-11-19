@@ -64,6 +64,7 @@ const LuckyPage: React.FC = () => {
     "https://jimmyhmiller.github.io/ugliest-beautiful-codebase",
     "https://thecut.com/2023/11/adulthood-is-a-mirage.html",
     "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short",
+    "https://walzr.com/IMG_0001",
   ];
 
   useEffect(() => {
