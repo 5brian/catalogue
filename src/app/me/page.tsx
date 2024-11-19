@@ -32,11 +32,12 @@ export default function Me() {
             :-)
             <br />
             <br />
-            i am currently interested in software for: ai/ml, quants/hft,
-            healthcare, and pharmaceuticals
+            i am currently interested in software for: the decentralized web,
+            react, ai/ml, quants/hft, healthcare, and pharmaceuticals
             <br />
-            lately ive been enjoying building a neovim config, open source, and
-            doing homework in latex
+            <br />
+            lately ive been enjoying: exploring open source, building a neovim
+            config, and doing homework in latex
             <br />
           </p>
         </div>
