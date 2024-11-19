@@ -35,8 +35,8 @@ export default function Me() {
             i am currently interested in software for: ai/ml, quants/hft,
             healthcare, and pharmaceuticals
             <br />
-            lately ive been enjoying building a neovim config, contributing to
-            open source, and doing homework in latex
+            lately ive been enjoying building a neovim config, open source, and
+            doing homework in latex
             <br />
           </p>
         </div>
