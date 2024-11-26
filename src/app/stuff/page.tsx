@@ -32,10 +32,11 @@ export default function Stuff() {
               aerospace
             </Link>
             <br />
+            zen, zed
+            <br />
             kitty, tmux, neovim, sioyek
             <br />
-            firefox dev, chrome, obsidian, linear, texts.com, vscode insiders,
-            keynote
+            chrome, obsidian, linear, texts.com, keynote
             <br />
             alfred, karabiner, skhd,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
@@ -48,7 +49,9 @@ export default function Stuff() {
               battery
             </Link>
             <br />
-            extensions: vimium c,{" "}
+            <i>extensions</i>
+            <br />
+            vimium c,{" "}
             <Link
               href="https://github.com/familyfriendlymikey/fuzzyhome"
               target="_blank"
@@ -56,7 +59,7 @@ export default function Stuff() {
               fuzzyhome,{" "}
             </Link>
             ubo lite, volume master
-            <br />
+            {/* <br />
             copilot, error lens, gitlens, tabout, vim, todo highlight,{" "}
             <Link
               href="https://github.com/tomrijndorp/vscode-finditfaster"
@@ -64,11 +67,13 @@ export default function Stuff() {
             >
               finditfaster,{" "}
             </Link>
-            eazymotion
+            eazymotion */}
             <br />
-            ohmyzsh, zoxide, lazygit; nvimtree, harpoon, treesitter, vimtex
+            zoxide, lazygit; nvimtree, harpoon, treesitter, vimtex
             <br />
-            <i>prev: arc, cron, zathura, yabai</i>
+            <i>prev</i>
+            <br />
+            arc, cron, zathura, yabai
             <br />
             <Link href="https://github.com/yoleuh?tab=stars" target="_blank">
               [more stuff i like]{" "}
