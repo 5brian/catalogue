@@ -34,7 +34,10 @@ export default function Stuff() {
             <br />
             zen, zed
             <br />
-            kitty, tmux, neovim, sioyek
+            kitty, tmux, neovim, sioyek,{" "}
+            <Link href="https://un.ms/research" target="_blank">
+              research
+            </Link>
             <br />
             chrome, obsidian, linear, texts.com, keynote
             <br />
