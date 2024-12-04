@@ -10,7 +10,7 @@ export default function Archive() {
       </Head>
       <div>
         <p>
-          <Link href="../stuff">[back]</Link>
+          <Link href="../uses">[back]</Link>
         </p>
         <p>
           <Link href="https://nskyc.com" target="_blank">

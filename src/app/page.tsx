@@ -14,7 +14,7 @@ export default function Home() {
         <Link href="https://5s55jrv5h.sites.cv/">work</Link>
       </Module>
       <Module>
-        <Link href="../stuff">stuff</Link>
+        <Link href="../uses">uses</Link>
       </Module>
       <Module>
         <Link href="../lucky" target="_blank">

@@ -6,7 +6,7 @@ import Layout from "../../components/layout";
 import Module from "../../components/module";
 import Link from "next/link";
 
-export default function Stuff() {
+export default function Uses() {
   return (
     <Layout title="all my things" showBack={true}>
       <Module>
@@ -79,10 +79,13 @@ export default function Stuff() {
             arc, cron, zathura, yabai
             <br />
             <Link href="https://github.com/yoleuh?tab=stars" target="_blank">
-              [more stuff i like]{" "}
+              [stars]{" "}
             </Link>
             <Link href="https://github.com/yoleuh/dots" target="_blank">
-              [dots]
+              [dots]{" "}
+            </Link>
+            <Link href="https://uses.tech/" target="_blank">
+              [/uses]
             </Link>
           </p>
         </div>
@@ -138,7 +141,7 @@ export default function Stuff() {
       </Module>
 
       <Module>
-        <Link href="/stuff/archivepage">i&apos;m feeling lucky archive</Link>
+        <Link href="/uses/archivepage">i&apos;m feeling lucky archive</Link>
       </Module>
     </Layout>
   );
