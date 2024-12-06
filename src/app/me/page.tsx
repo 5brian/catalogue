@@ -44,7 +44,7 @@ export default function Me() {
       </Module>
 
       <Module>
-        <Link href="https://github.com/yoleuh" target="_blank">
+        <Link href="https://github.com/5brian" target="_blank">
           github
         </Link>
       </Module>

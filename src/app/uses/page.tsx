@@ -78,10 +78,10 @@ export default function Uses() {
             <br />
             arc, cron, zathura, yabai
             <br />
-            <Link href="https://github.com/yoleuh?tab=stars" target="_blank">
+            <Link href="https://github.com/5brian?tab=stars" target="_blank">
               [stars]{" "}
             </Link>
-            <Link href="https://github.com/yoleuh/dots" target="_blank">
+            <Link href="https://github.com/5brian/dots" target="_blank">
               [dots]{" "}
             </Link>
             <Link href="https://uses.tech/" target="_blank">
