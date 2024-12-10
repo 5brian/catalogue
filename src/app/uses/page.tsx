@@ -74,10 +74,6 @@ export default function Uses() {
             <br />
             zoxide, lazygit; nvimtree, harpoon, treesitter, vimtex
             <br />
-            <i>prev</i>
-            <br />
-            arc, cron, zathura, yabai
-            <br />
             <Link href="https://github.com/5brian?tab=stars" target="_blank">
               [stars]{" "}
             </Link>

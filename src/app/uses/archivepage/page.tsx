@@ -451,6 +451,14 @@ export default function Archive() {
             [Block the Blue](notes.jordanscales.com/block-the-blue)
           </Link>
         </p>
+        <p>
+          <Link
+            href="https://wattenberger.com/thoughts/fish-eye"
+            target="_blank"
+          >
+            [Fish eyes](https://wattenberger.com/thoughts/fish-eye)
+          </Link>
+        </p>
       </div>
     </>
   );
