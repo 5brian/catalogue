@@ -66,6 +66,7 @@ const LuckyPage: React.FC = () => {
     "https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short",
     "https://walzr.com/IMG_0001",
     "https://wattenberger.com/thoughts/fish-eye",
+    "https://emilyliu.me/blog/open-network",
   ];
 
   useEffect(() => {

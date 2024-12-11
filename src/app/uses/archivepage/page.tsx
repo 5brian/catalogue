@@ -180,7 +180,7 @@ export default function Archive() {
             target="_blank"
           >
             [The days are long but the decades are
-            short](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
+            short](blog.samaltman.com/the-days-are-long-but-the-decades-are-short)
           </Link>
         </p>
         <p>
@@ -440,7 +440,7 @@ export default function Archive() {
         </p>
         <p>
           <Link href="https://walzr.com/IMG_0001" target="_blank">
-            [ IMG_0001](https://walzr.com/IMG_0001)
+            [ IMG_0001](walzr.com/IMG_0001)
           </Link>
         </p>
         <p>
@@ -456,7 +456,12 @@ export default function Archive() {
             href="https://wattenberger.com/thoughts/fish-eye"
             target="_blank"
           >
-            [Fish eyes](https://wattenberger.com/thoughts/fish-eye)
+            [Fish eyes](wattenberger.com/thoughts/fish-eye)
+          </Link>
+        </p>
+        <p>
+          <Link href="https://emilyliu.me/blog/open-network" target="_blank">
+            [Benefits of an open network](emilyliu.me/blog/open-network)
           </Link>
         </p>
       </div>
