@@ -72,7 +72,7 @@ export default function Uses() {
             </Link>
             eazymotion */}
             <br />
-            zoxide, lazygit; nvimtree, harpoon, treesitter, vimtex
+            yazi, zoxide, lazygit; nvimtree, harpoon, treesitter, vimtex
             <br />
             <Link href="https://github.com/5brian?tab=stars" target="_blank">
               [stars]{" "}
