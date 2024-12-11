@@ -34,12 +34,12 @@ export default function Uses() {
             <br />
             zen, zed
             <br />
-            kitty, tmux, neovim, sioyek,{" "}
+            kitty, tmux, neovim, yazi, zoxide, lazygit, btop
+            <br />
+            chrome, obsidian, linear, texts.com, keynote, sioyek,{" "}
             <Link href="https://un.ms/research" target="_blank">
               research
             </Link>
-            <br />
-            chrome, obsidian, linear, texts.com, keynote
             <br />
             alfred, karabiner, skhd,{" "}
             <Link href="https://github.com/Caldis/Mos" target="_blank">
@@ -72,7 +72,7 @@ export default function Uses() {
             </Link>
             eazymotion */}
             <br />
-            yazi, zoxide, lazygit; nvimtree, harpoon, treesitter, vimtex
+            nvimtree, harpoon, treesitter, vimtex
             <br />
             <Link href="https://github.com/5brian?tab=stars" target="_blank">
               [stars]{" "}
