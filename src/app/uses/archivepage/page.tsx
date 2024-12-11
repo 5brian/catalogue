@@ -440,7 +440,7 @@ export default function Archive() {
         </p>
         <p>
           <Link href="https://walzr.com/IMG_0001" target="_blank">
-            [ IMG_0001](walzr.com/IMG_0001)
+            [IMG_0001](walzr.com/IMG_0001)
           </Link>
         </p>
         <p>
