@@ -64,6 +64,7 @@ const links: string[] = [
   "https://walzr.com/IMG_0001",
   "https://wattenberger.com/thoughts/fish-eye",
   "https://emilyliu.me/blog/open-network",
+  "https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/",
 ];
 
 const LuckyPage: React.FC = () => {

@@ -464,6 +464,15 @@ export default function Archive() {
             [Benefits of an open network](emilyliu.me/blog/open-network)
           </Link>
         </p>
+        <p>
+          <Link
+            href="https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/"
+            target="_blank"
+          >
+            [Anime Girls Holding Programming
+            Books](cat-milk.github.io/Anime-Girls-Holding-Programming-Books)
+          </Link>
+        </p>
       </div>
     </>
   );
