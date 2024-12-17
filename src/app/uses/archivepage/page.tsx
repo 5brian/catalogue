@@ -475,7 +475,7 @@ export default function Archive() {
         </p>
         <p>
           <Link href="https://paulgraham.com/ds.html" target="_blank">
-            [Do Things that Dont Scale](paulgraham.com/ds.html)
+            [Do Things that Don&apos;t Scale](paulgraham.com/ds.html)
           </Link>
         </p>
       </div>
