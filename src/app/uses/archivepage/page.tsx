@@ -473,6 +473,11 @@ export default function Archive() {
             Books](cat-milk.github.io/Anime-Girls-Holding-Programming-Books)
           </Link>
         </p>
+        <p>
+          <Link href="https://paulgraham.com/ds.html" target="_blank">
+            [Do Things that Dont Scale](paulgraham.com/ds.html)
+          </Link>
+        </p>
       </div>
     </>
   );
