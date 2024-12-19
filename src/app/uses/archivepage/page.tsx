@@ -478,6 +478,15 @@ export default function Archive() {
             [Do Things that Don&apos;t Scale](paulgraham.com/ds.html)
           </Link>
         </p>
+        <p>
+          <Link
+            href="https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/"
+            target="_blank"
+          >
+            [The Ghosts in the
+            Machine](harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
+          </Link>
+        </p>
       </div>
     </>
   );
