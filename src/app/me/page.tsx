@@ -25,11 +25,10 @@ export default function Me() {
       <Module>
         <div className="module1">
           <p>
-            b. 2004, santa rosa. currently a 4th year computer science student.
-            looking to build software for someone. i grew up in singapore, but
-            now, i spend my days making computers do things in rockville, md. in
-            the future, i would like to go back to san francisco for a few years
-            :-)
+            b. 2004, santa rosa. currently a 4th year math and computer science
+            student. looking to build software for someone. i grew up in
+            singapore, but now, i spend my days making computers do things in
+            rockville, md.
             <br />
             <br />
             i am currently interested in software for: the decentralized web,
