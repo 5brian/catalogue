@@ -125,9 +125,9 @@ export default function Uses() {
           <p>
             <i>programming</i>
             <br />
-            python, java, c, x86-64 assembly, lisp, go, lua
+            python, java, c, go
             <br />
-            typescript, react, next.js, tailwindcss
+            typescript, react, nextjs, tailwindcss
             <br />
             .NET, C#, MonoGame
             <br />
