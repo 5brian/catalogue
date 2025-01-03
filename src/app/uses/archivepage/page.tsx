@@ -484,7 +484,7 @@ export default function Archive() {
             target="_blank"
           >
             [The Ghosts in the
-            Machine](harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/)
+            Machine](harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians)
           </Link>
         </p>
       </div>
