@@ -49,8 +49,8 @@ export default function Me() {
       </Module>
 
       <Module>
-        <Link href="mailto:tan.1220@osu.edu" target="_blank">
-          mail
+        <Link href="mailto:brian.tan88@gmail.com" target="_blank">
+          brian.tan88 [at] gmail [dot] com
         </Link>
       </Module>
     </Layout>
