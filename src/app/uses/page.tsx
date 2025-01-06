@@ -125,7 +125,7 @@ export default function Uses() {
           <p>
             <i>programming</i>
             <br />
-            python, java, c, go
+            python, java, c, go, kotlin
             <br />
             typescript, react, nextjs, tailwindcss
             <br />
