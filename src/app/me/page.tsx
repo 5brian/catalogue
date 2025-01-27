@@ -1,9 +1,9 @@
 "use client";
 
-import "../../styles/style.css";
+import "@/styles/style.css";
 import React from "react";
-import Layout from "../../components/layout";
-import Module from "../../components/module";
+import Layout from "@/components/layout";
+import Module from "@/components/module";
 import Link from "next/link";
 
 export default function Me() {
