@@ -67,6 +67,7 @@ const links: string[] = [
   "https://cat-milk.github.io/Anime-Girls-Holding-Programming-Books/",
   "https://paulgraham.com/ds.html",
   "https://harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians/",
+  "https://solar.lowtechmagazine.com/",
 ];
 
 const LuckyPage: React.FC = () => {

@@ -487,6 +487,11 @@ export default function Archive() {
             Machine](harpers.org/archive/2025/01/the-ghosts-in-the-machine-liz-pelly-spotify-musicians)
           </Link>
         </p>
+        <p>
+          <Link href="https://solar.lowtechmagazine.com/" target="_blank">
+            [LOW←TECH MAGAZINE](solar.lowtechmagazine.com)
+          </Link>
+        </p>
       </div>
     </>
   );
