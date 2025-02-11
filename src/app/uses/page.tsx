@@ -125,13 +125,9 @@ export default function Uses() {
           <p>
             <i>programming</i>
             <br />
-            cpp, python, java, go, kotlin
+            cpp, rust, go
             <br />
             typescript, react, nextjs, tailwindcss
-            <br />
-            .NET, C#, MonoGame
-            <br />
-            <i>misc: sql, solidworks, excel, latex</i>
           </p>
         </div>
       </Module>
