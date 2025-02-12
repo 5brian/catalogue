@@ -14,23 +14,7 @@ export default function Uses() {
           <p>
             <i>software</i>
             <br />
-            os: macos + nix
-            <br />
-            bar:{" "}
-            <Link
-              href="https://github.com/FelixKratz/SketchyBar"
-              target="_blank"
-            >
-              sketchybar
-            </Link>
-            <br />
-            wm:{" "}
-            <Link
-              href="https://github.com/nikitabobko/AeroSpace"
-              target="_blank"
-            >
-              aerospace
-            </Link>
+            macos, nix, aerospace | nixos, wayland, hyprland
             <br />
             zen, zed
             <br />
