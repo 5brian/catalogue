@@ -14,7 +14,7 @@ export default function Uses() {
           <p>
             <i>software</i>
             <br />
-            os: macos
+            os: macos + nix
             <br />
             bar:{" "}
             <Link
