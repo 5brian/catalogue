@@ -26,17 +26,21 @@ export default function Me() {
         <div className="module1">
           <p>
             b. 2004, santa rosa. currently a 4th year math and computer science
-            student. looking to build software for someone. i grew up in
+            student. looking to build software for someone! i grew up in
             singapore, but now, i spend my days making computers do things in
             rockville, md.
             <br />
             <br />
             i am currently interested in software for: the decentralized web,
-            react, ai/ml, quants/hft, healthcare, and pharmaceuticals
+            react, ai/ml, quants/hft
             <br />
             <br />
-            lately ive been enjoying: exploring open source, building a neovim
-            config, and doing homework in latex
+            lately ive been enjoying: exploring nixos and nix, and hacking on
+            the vim motions in{" "}
+            <Link href="https://github.com/zed-industries/zed" target="_blank">
+              zed
+            </Link>
+            !
             <br />
           </p>
         </div>
