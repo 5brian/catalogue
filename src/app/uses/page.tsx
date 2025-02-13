@@ -14,7 +14,7 @@ export default function Uses() {
           <p>
             <i>software</i>
             <br />
-            macos, nix, aerospace | nixos, wayland, hyprland
+            macos, nix, aerospace | nixos, flakes, home-manager
             <br />
             zen, zed
             <br />
@@ -63,6 +63,9 @@ export default function Uses() {
             </Link>
             <Link href="https://github.com/5brian/dots" target="_blank">
               [dots]{" "}
+            </Link>
+            <Link href="https://github.com/5brian/flake" target="_blank">
+              [nix wip]{" "}
             </Link>
             <Link href="https://uses.tech/" target="_blank">
               [/uses]
