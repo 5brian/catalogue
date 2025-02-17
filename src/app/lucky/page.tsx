@@ -41,7 +41,6 @@ const links: string[] = [
   "https://mowglii.com/itsycal/datetime.html",
   "https://cooklang.org",
   "https://washingtonpost.com/technology/2023/08/15/twitter-x-links-delayed",
-  "https://wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794",
   "https://motherfuckingwebsite.com",
   "https://code.golf",
   "https://blog.robertelder.org/how-to-make-a-cpu",

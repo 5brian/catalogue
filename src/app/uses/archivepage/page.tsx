@@ -167,15 +167,6 @@ export default function Archive() {
         </p>
         <p>
           <Link
-            href="https://wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794"
-            target="_blank"
-          >
-            [Ghost Job
-            Listings](wsj.com/articles/that-plum-job-listing-may-just-be-a-ghost-3aafc794)
-          </Link>
-        </p>
-        <p>
-          <Link
             href="https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short"
             target="_blank"
           >
