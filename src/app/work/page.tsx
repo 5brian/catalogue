@@ -13,13 +13,11 @@ export default function Work() {
           }}
         >
           <p>
-            re-doing this page, will be back soon i promise, feel free to ask me
-            for my resume @ tan.1220@osu.edu :)
+            wip
             <br />
-            <Link href="https://rdvrl4clj.sites.cv/" target="_blank">
-              [readcv]{" "}
+            <Link href="https://github.com/5brian" target="_blank">
+              github.com/5brian
             </Link>
-            for now
             <br />
             <a href="../">[back]</a>
           </p>
