@@ -31,10 +31,6 @@ export default function Me() {
             rockville, md.
             <br />
             <br />
-            i am currently interested in software for: the decentralized web,
-            react, ai/ml, quants/hft
-            <br />
-            <br />
             lately ive been enjoying: exploring nixos and nix, and hacking on
             the vim motions in{" "}
             <Link href="https://github.com/zed-industries/zed" target="_blank">
